@@ -1,5 +1,8 @@
 my second page
 commit list of change in your
-local git repostry
+local git repostiry
 author of this commit
  comment describe what has change
+
+i want edit after commit
+
